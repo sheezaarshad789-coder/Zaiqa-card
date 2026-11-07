@@ -1,6 +1,6 @@
-# Recipe Showcase
+# Zaika Food
 
-A responsive Pakistani recipe showcase built with React and Vite. Explore quick local favourites and weekend specials, with cooking times, difficulty and dietary badges on every recipe card.
+A responsive Pakistani recipe showcase built with React and Vite, featuring quick recipes, weekend specials, cooking details, and a warm, food-inspired design.
 
 The **Zaika Food** logo from `src/assets/zaika-logo.png` appears in the header and footer. Recipe photography and the display fonts are loaded from Unsplash and Google Fonts.
 
